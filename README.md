@@ -1,2 +1,2 @@
 # SOBRE-MI
-Esta es un presentación sobre mí.
+Esta es una presentación sobre mí.
